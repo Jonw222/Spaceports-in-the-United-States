@@ -8,7 +8,7 @@
 - See Spaceport CSV data under 'data' in this repository for complete spaceport data
 
  # Why I Created the Map
-I research space exploration, focusing on the complex and multifaceted issue of space-related threats and their impacts on human societies. Specifically, I intend to investigate the contamination of rocket fuel residues and their environmental impact near space landing facilities, focusing on the soil around these areas in the United States. Thus, I created a map of spaceports in the US to visualize all US spaceports in a map, as well as community centers in Florida, where I intend to conduct focus group discussions to have an idea of where they are located. The map gives me a headstart on my fieldwork beginning in the Winter of 2024.
+I research space exploration, focusing on the complex and multifaceted issue of space-related threats and their impacts on human societies. Specifically, I intend to investigate the contamination of rocket fuel residues and their environmental impact near space landing facilities, focusing on the soil around these areas in the United States. Thus, I created a map of spaceports in the US to visualize all US spaceports in a map, as well as community centers in Florida, where I intend to conduct focus group discussions to have an idea of where they are located. The map gives me a head start on my fieldwork beginning in the Winter of 2024.
 
  # Map Creation Process
 - Step 1: I opened a blank excel file and manually inputed data on US spaceports derived from the US Federal Aviation Admnistration, Wikipedia, and Google Maps.
