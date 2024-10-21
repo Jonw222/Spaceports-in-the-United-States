@@ -37,7 +37,10 @@ I research space exploration, focusing on the complex and multifaceted issue of 
      - Nothing was selected meaning there are no community centers within the spaceports buffer zone.
      ![alt text](<Screenshot 2024-10-21 005311.jpg>)
 
+     ![alt text](<US_Spaceports_Florida Community Centers_600dpi.png>)
+
 # Active link to the final index.html page
+http://127.0.0.1:5502/Map-Items/Data/index.html
 
 # CRS Information
 I started the project with EPSG: 4326 - WGS 84. Since, the EPSG: 4326 - WGS 84 projection was in degrees, I changed the CRS of the CSV Spaceport and Community layers to EPSG: 5070 - NAD 83 that allowed projection in miles to use the Buffer tool. Thus, although the project is still in EPSG: 4326 - WGS 84 projection, the CSV Spaceport and Community layers are in EPSG: 5070 - NAD 83.
